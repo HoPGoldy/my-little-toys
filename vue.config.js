@@ -2,7 +2,7 @@
 module.exports = {
   // 选项...
   baseUrl: './',
-  outputDir: 'doc',
+  outputDir: 'docs',
   productionSourceMap: false,
   configureWebpack: {
     externals: {
