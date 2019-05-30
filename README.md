@@ -1,6 +1,6 @@
 # my-little-toys
 
-个人兴趣制作的一些小玩意，使用 `vue` + `element` + `leaflet` + `animjs` 制作
+个人兴趣制作的一些小玩意，使用 `vue` + `element` + `leaflet` + `animjs` 制作，你可以通过 [点击这里](https://hopgoldy.github.io/my-little-toys/) 来浏览它们！
 
 # 依赖
 
