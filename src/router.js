@@ -14,7 +14,7 @@ const routes = [
         path: '/', 
         component: Menu,
         meta: {
-            title: 'HoPGoldy\' website'
+            title: "hopgoldy's little toys!"
         }
     },
     { 
