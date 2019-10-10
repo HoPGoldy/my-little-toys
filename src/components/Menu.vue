@@ -47,6 +47,10 @@ el-container
                         'key': 'MessageBoard'
                     },
                     {
+                        'label': '日期转换器',
+                        'key': 'time'
+                    },
+                    {
                         'label': '网站架构',
                         'key': 'WebsiteFrame'
                     }

@@ -27,7 +27,7 @@ yarn serve
 **构建**
 
 ```
-npm run build
+yarn run build
 ```
 
 # 都有哪些小玩意？

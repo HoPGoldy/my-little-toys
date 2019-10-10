@@ -8,6 +8,7 @@ import CountDown from './components/CountDown.vue'
 import WhereIsMyPet from './components/WhereIsMyPet.vue'
 import MessageBoard from './components/MessageBoard.vue'
 import WebsiteFrame from './components/WebsiteFrame.vue'
+import BadTimeFormater from './components/BadTimeFormater.vue'
 
 const routes = [
     { 
@@ -36,6 +37,13 @@ const routes = [
         component: MessageBoard,
         meta: {
             title: '留言板'
+        }
+    },
+    { 
+        path: '/time', 
+        component: BadTimeFormater,
+        meta: {
+            title: '日期转换器'
         }
     },
     { 
