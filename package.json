@@ -15,7 +15,7 @@
     "element-ui": "^2.4.11",
     "html2canvas": "^1.0.0-alpha.12",
     "moment": "^2.24.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "style-loader": "^0.23.1",
     "stylus": "^0.54.5",
